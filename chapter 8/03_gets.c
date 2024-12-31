@@ -13,6 +13,7 @@ int main(){
 
 
 
+    //🔥🔥M.i.m(while using scanf for string we don't use &(ampercent) )
 
     return 0;
 }
