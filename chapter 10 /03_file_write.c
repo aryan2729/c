@@ -10,7 +10,7 @@ int main(){
 
     int num = 345;
 
-    fprintf(ptr , "%d", num);    // 🚀 fprintf -> is used to write formatted data to a file
+    fprintf(ptr , "%d", num);    // 🚀 fprintf -> is used  to write data in a file using a stream object
 
     fclose(ptr);        // don't forgot to close the file . 
 

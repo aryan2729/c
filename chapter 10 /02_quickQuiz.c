@@ -8,7 +8,9 @@ int main(){
     if( ptr == NULL ) {
         printf("The file doesn't exist sorry!\n");
     }
+
     else { 
+        
         int num;
     fscanf(ptr , "%d", &num );      // this store the first integer in num 
     printf("The value of num is %d \n", num);
